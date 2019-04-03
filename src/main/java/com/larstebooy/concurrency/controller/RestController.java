@@ -1,4 +1,4 @@
-package com.larstebooy.Concurrency.controller;
+package com.larstebooy.concurrency.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
